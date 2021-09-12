@@ -42,3 +42,13 @@ type: lane
 id: <uuid4>
 type: task
 ```
+
+### Comment
+
+```
+id: <uuid4>
+type: comment
+author: <email>
+created_at: <iso datetime>
+modified_at: <iso datetime>
+```
