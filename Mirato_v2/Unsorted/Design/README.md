@@ -4,10 +4,8 @@ type: board
 members:
   - subir+2@desdevpro.com
 tags:
-  - name: "label 1"
-    color: "#a32030"
-  - name: "label 2"
-    color: "#fa3ef0"
+lanes:
+  - b842cf2f-15b7-48ca-b223-756528eaec49
 ---
 
 # Design
