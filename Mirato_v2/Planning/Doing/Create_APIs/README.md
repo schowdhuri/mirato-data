@@ -5,6 +5,4 @@ type: folder
 
 # Create APIs
 
-The final (total) scores for both players should be added to the email tempalte
-
-## Can we not show `-$0.00`
+Foo bar baz
