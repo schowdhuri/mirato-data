@@ -5,13 +5,6 @@ type: task
 
 # icebox task 5
 
-
 # icebox task 5
 
-
-# icebox task 5
-
-
-
-
-
+descr 2
