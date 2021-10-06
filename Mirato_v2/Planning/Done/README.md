@@ -2,6 +2,7 @@
 id: 11d05eb5-6152-49cc-80fa-d3b645cc5136
 type: lane
 tasks:
+  - 5f6dcbde-4671-4a95-b688-838ace056d97
   - 9a1a1844-94e1-4143-9e25-78d4ba1c011b
   - fd9d69ae-02f8-4ad7-88d8-ab7db89f3f04
   - 3d8c94ba-5e2c-45a5-9993-7e6abe5823b4
